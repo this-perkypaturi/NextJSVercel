@@ -81,12 +81,6 @@ export default function Login() {
         >
           Go to Signup page
         </Link>
-        <Link
-          href="/forgotpassword"
-          className="mt-10 border border-solid border-white p-4 rounded-md"
-        >
-          Forgot Password
-        </Link>
       </div>
     </>
   );
